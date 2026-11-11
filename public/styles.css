@@ -99,3 +99,15 @@
 .hero .intro{max-width:650px}
 @media(max-width:1000px){.hero h1{font-size:clamp(40px,5.3vw,54px)}.hero-title-row>.hero-colon{font-size:160px;top:-20px;right:0}}
 @media(max-width:720px){.hero-title-row{min-height:134px;margin:21px 0 21px}.hero h1{font-size:40px;max-width:calc(100% - 48px);letter-spacing:-.05em}.hero-title-row>.hero-colon{display:block;font-size:104px;right:0;top:-5px}:root[data-hero="work"] .hero h1{font-size:clamp(27px,7.7vw,44px);letter-spacing:-.045em}.hero-bottom{padding-bottom:29px}}
+
+.hero-byline {
+  margin: 0 0 12px;
+  font-family: var(--heading);
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--ink);
+}
+
+.hero-byline span {
+  color: var(--mint);
+}
