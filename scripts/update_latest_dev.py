@@ -73,7 +73,7 @@ def normalise(rows):
 
 
 def fetch():
-    req = Request('https://dev.to/api/articles?username=ptzivras&per_page=5',
+    req = Request('https://dev.to/api/articles?username=ptzivras&per_page=5&page=1',
                   headers={'Accept': 'application/vnd.forem.api-v1+json',
                            'User-Agent': 'ptzivras-personal-website/1.0'})
     with urlopen(req, timeout=20) as response:
