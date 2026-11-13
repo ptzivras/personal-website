@@ -14,7 +14,7 @@ I've worked as a data engineer in retail businesses, startups and research centr
 
 [Explore ARGOS](https://argos-geo.org) · [Source code](https://github.com/argos-geo/kefalonia-digital-twin)
 
-**[RED Observatory](https://olympiacos-observatory.pages.dev)** is an independent, fan-built sports analytics platform, starting with Olympiacos basketball. Data collection, APIs and interactive analysis, built for the love of the game and the engineering. No official club affiliation.
+**[RED Observatory](https://redobs.fans)** is an independent, fan-built sports analytics platform, starting with Olympiacos basketball. Data collection, APIs and interactive analysis, built for the love of the game and the engineering. No official club affiliation.
 
 ## Field notes
 
